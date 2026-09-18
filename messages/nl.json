@@ -1,0 +1,15 @@
+{
+  "Common": {
+    "appName": "SiteMargin",
+    "tagline": "Kosten en meerwerk bijhouden voor kleine renovatiebedrijven"
+  },
+  "HomePage": {
+    "title": "SiteMargin",
+    "subtitle": "Kosten en meerwerk bijhouden voor kleine renovatie- en bouwbedrijven.",
+    "stageLabel": "Projectstatus",
+    "stageValue": "Fase 2: projectskelet. De app heeft nog geen functies.",
+    "nextLabel": "Volgende stap",
+    "nextValue": "Lokale demo met fictieve gegevens, om de schermen te beoordelen.",
+    "cta": "Demoknop (doet nog niets)"
+  }
+}

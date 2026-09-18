@@ -1,0 +1,15 @@
+{
+  "Common": {
+    "appName": "SiteMargin",
+    "tagline": "Cost and change-order tracking for small renovation businesses"
+  },
+  "HomePage": {
+    "title": "SiteMargin",
+    "subtitle": "Cost and change-order tracking for small renovation and construction businesses.",
+    "stageLabel": "Project status",
+    "stageValue": "Stage 2: project skeleton. The app has no features yet.",
+    "nextLabel": "Next step",
+    "nextValue": "Local demo with fictional data, to review the screens.",
+    "cta": "Demo button (does nothing yet)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Common": {
+    "appName": "SiteMargin",
+    "tagline": "Evidența costurilor și a lucrărilor suplimentare pentru firme mici de renovări"
+  },
+  "HomePage": {
+    "title": "SiteMargin",
+    "subtitle": "Evidența costurilor și a lucrărilor suplimentare pentru firme mici de renovări și construcții.",
+    "stageLabel": "Stadiul proiectului",
+    "stageValue": "Etapa 2: schelet de proiect. Aplicația nu are încă funcții.",
+    "nextLabel": "Următorul pas",
+    "nextValue": "Demonstrație locală cu date fictive, pentru verificarea ecranelor.",
+    "cta": "Buton demonstrativ (nu face nimic încă)"
+  }
+}
