@@ -46,3 +46,6 @@ next-env.d.ts
 
 # .env.example contine doar nume de variabile si valori demonstrative: se publica
 !.env.example
+
+# configurare locala Claude Code Desktop
+/.claude/
